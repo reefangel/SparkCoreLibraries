@@ -1,0 +1,7 @@
+{
+  "name": "SparkCoreLibraries",
+  "author": "Roberto Imai <info@reefangel.com>",
+  "license": "Apache ",
+  "version": "0.0.1",
+  "description": "Spark Core Libraries port from our Arduino libraries"
+}
